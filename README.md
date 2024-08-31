@@ -1,2 +1,2 @@
 # Breast-Cancer
-Breast Cancer Detection using classification in Machine learining
+Breast Cancer Detection using classification in Machine learning
